@@ -1,0 +1,40 @@
+\contentsline {part}{I\hspace {1em}Nodal curves, dual graphs and resolutions}{6}{part.1}
+\contentsline {section}{\numberline {1}Local structure of nodal curves and their dual graphs}{7}{section.1}
+\contentsline {subsection}{\numberline {1.1}First definitions}{7}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}The local structure}{8}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}The dual graph at a geometric point}{8}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Quasisplitness, dual graphs at non-geometric points}{9}{subsection.1.4}
+\contentsline {section}{\numberline {2}Primality and base change}{11}{section.2}
+\contentsline {section}{\numberline {3}Sections of nodal curves}{13}{section.3}
+\contentsline {subsection}{\numberline {3.1}Type of a section}{13}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Admissible neighbourhoods}{16}{subsection.3.2}
+\contentsline {section}{\numberline {4}Refinements and resolutions}{17}{section.4}
+\contentsline {subsection}{\numberline {4.1}Arithmetic complexity and motivation for refinements}{18}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Arithmetic complexity}{18}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Factoriality of completed \'etale local rings}{18}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Factoring sections through the smooth locus}{19}{subsubsection.4.1.3}
+\contentsline {subsection}{\numberline {4.2}Refinements of graphs}{20}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Refinements of curves}{20}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Resolutions of nodal curves}{23}{subsection.4.4}
+\contentsline {part}{II\hspace {1em}N\'eron models of nodal curves and their Jacobians}{24}{part.2}
+\contentsline {section}{\numberline {5}Generalities about N\'eron models}{25}{section.5}
+\contentsline {subsection}{\numberline {5.1}Definitions}{25}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Base change and descent properties}{26}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Group models with injective restriction map}{28}{subsection.5.3}
+\contentsline {section}{\numberline {6}N\'eron models of Jacobians}{29}{section.6}
+\contentsline {subsection}{\numberline {6.1}Construction of the N\IeC {\'e}ron model}{29}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}A criterion for separatedness}{31}{subsection.6.2}
+\contentsline {section}{\numberline {7}N\'eron models of curves with nodal models}{34}{section.7}
+\contentsline {subsection}{\numberline {7.1}Factoring sections through refinements}{34}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}First construction of the N\'eron model}{36}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Exceptional components and minimal proper regular models}{39}{subsection.7.3}
+\contentsline {subsubsection}{\numberline {7.3.1}Definition}{40}{subsubsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.2}The minimal proper regular model}{40}{subsubsection.7.3.2}
+\contentsline {subsubsection}{\numberline {7.3.3}Van der Waerden's purity theorem}{41}{subsubsection.7.3.3}
+\contentsline {subsection}{\numberline {7.4}Contractions and stable models}{43}{subsection.7.4}
+\contentsline {subsubsection}{\numberline {7.4.1}The stack of n-pointed stable curves and the contraction morphism}{43}{subsubsection.7.4.1}
+\contentsline {subsubsection}{\numberline {7.4.2}The stable model}{44}{subsubsection.7.4.2}
+\contentsline {subsubsection}{\numberline {7.4.3}Rational components of the stable model}{46}{subsubsection.7.4.3}
+\contentsline {subsubsection}{\numberline {7.4.4}Singular ideals of the stable model}{49}{subsubsection.7.4.4}
+\contentsline {subsubsection}{\numberline {7.4.5}The main theorem}{50}{subsubsection.7.4.5}
+\contentsline {subsection}{\numberline {7.5}Separatedness of the N\'eron model}{51}{subsection.7.5}

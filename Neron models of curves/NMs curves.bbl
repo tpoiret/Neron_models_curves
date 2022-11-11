@@ -1,0 +1,130 @@
+\begin{thebibliography}{HMOP20}
+
+\bibitem[BLR90]{NeronModels}
+Siegfried Bosch, Werner Lütkebohmert, and Michel Raynaud.
+\newblock {\em Néron Models}.
+\newblock Springer-Verlag, 1990.
+
+\bibitem[dJ96]{DeJong}
+A.J. de~Jong.
+\newblock Smoothness, semi-stability and alterations.
+\newblock {\em Publications Mathématiques de l'IHÉS, tome 83}, 1996.
+
+\bibitem[EL19]{QuadChabauty}
+Bas Edixhoven and Guido Lido.
+\newblock Geometric quadratic {Chabauty}.
+\newblock {\em arXiv:1910.10752}, 2019.
+
+\bibitem[F.K83]{Knudsen}
+Finn F.Knudsen.
+\newblock The projectivity of the moduli space of stable curves {II}.
+\newblock {\em Math. scand 52, 161-199}, 1983.
+
+\bibitem[GD60]{EGA1}
+Alexander Grothendieck and Jean Dieudonné.
+\newblock {\em Éléments de géométrie algébrique : I. Le langage des
+  schémas}.
+\newblock Publications Mathématiques de l'IHÉS, 4, 1960.
+
+\bibitem[GD61]{EGA2}
+Alexander Grothendieck and Jean Dieudonné.
+\newblock {\em Éléments de géométrie algébrique : II. Étude globale
+  élémentaire de quelques classes de morphismes}.
+\newblock Publications Mathématiques de l'IHÉS, 8, 1961.
+
+\bibitem[GD64]{EGA4.1}
+Alexander Grothendieck and Jean Dieudonné.
+\newblock {\em Éléments de géométrie algébrique : IV. Étude locale des
+  schémas et des morphismes de schémas, Première partie}.
+\newblock Publications Mathématiques de l'IHÉS, 20, 1964.
+
+\bibitem[GD66]{EGA4.3}
+Alexander Grothendieck and Jean Dieudonné.
+\newblock {\em Éléments de géométrie algébrique : IV. Étude locale des
+  schémas et des morphismes de schémas, Troisième partie}.
+\newblock Publications Mathématiques de l'IHÉS, 28, 1966.
+
+\bibitem[GD67]{EGA4.4}
+Alexander Grothendieck and Jean Dieudonné.
+\newblock {\em Éléments de géométrie algébrique : IV. Étude locale des
+  schémas et des morphismes de schémas, Quatrième partie}.
+\newblock Publications Mathématiques de l'IHÉS, 32, 1967.
+
+\bibitem[GLL14]{HypersurfacesMovingLemma}
+Ofer Gabber, Qing Liu, and Dino Lorenzini.
+\newblock Hypersurfaces in projective schemes and a moving lemma.
+\newblock {\em Duke Math. J. 164, no. 7 (2015), 1187-1270}, 2014.
+
+\bibitem[HMOP20]{HMOPModelsJacobians}
+David Holmes, Samouil Molcho, Giulio Orecchia, and Thibault Poiret.
+\newblock Models of {Jacobians} of curves.
+\newblock {\em arXiv:2007.10792}, 2020.
+
+\bibitem[Hol15]{HolmesUniversalJacobian}
+David Holmes.
+\newblock A {Néron} model of the universal jacobian.
+\newblock {\em arXiv:1412.2243}, 2015.
+
+\bibitem[Hol19a]{HolmesExtendingDRC}
+David Holmes.
+\newblock Extending the double ramification cycle by resolving the
+  {Abel}-{Jacobi} map.
+\newblock {\em Journal of the Institute of Mathematics of Jussieu, 1-29}, 2019.
+
+\bibitem[Hol19b]{Holmes}
+David Holmes.
+\newblock Néron models of {Jacobians} over base schemes of dimension greater
+  than 1.
+\newblock {\em Journal für die reine und angewandte Mathematik, 747:109--145},
+  2019.
+
+\bibitem[Kat89]{Kato}
+Kazuya Kato.
+\newblock Logarithmic structures of {F}ontaine-{I}llusie.
+\newblock In {\em Algebraic analysis, geometry, and number theory ({B}altimore,
+  {MD}, 1988)}, pages 191--224. Johns Hopkins Univ. Press, Baltimore, MD, 1989.
+
+\bibitem[Liu02]{Liu}
+Qing Liu.
+\newblock {\em Algebraic Geometry and Arithmetic Curves}.
+\newblock Translated from French by Reinie Ern\'e, Oxford science publications,
+  2002.
+
+\bibitem[LT13]{LiuTong}
+Qing Liu and Jilong Tong.
+\newblock Néron models of algebraic curves.
+\newblock {\em Trans. Amer. Math. Soc. , 368:7019--7043}, 2013.
+
+\bibitem[Né64]{neron_article}
+André Néron.
+\newblock Modèles minimaux des variétés abéliennes sur les corps locaux et
+  globaux.
+\newblock {\em Publications Mathématiques de l'IHÉS, 21:128}, 1964.
+
+\bibitem[Ore18]{GiulioToricAdd}
+Giulio Orecchia.
+\newblock A criterion for existence of {Néron} models of {Jacobians}.
+\newblock {\em arXiv:1806.05552}, 2018.
+
+\bibitem[Ore19]{GiulioMonodromyCriterion}
+Giulio Orecchia.
+\newblock A monodromy criterion for existence of {Neron} models of abelian
+  schemes in characteristic zero.
+\newblock {\em arXiv:1904.03886}, 2019.
+
+\bibitem[Ray70]{Raynaud}
+Michel Raynaud.
+\newblock {\em Anneaux locaux henséliens}.
+\newblock Springer-Verlag Berlin Heidelberg, 1970.
+
+\bibitem[{Sta}17]{stacks-project}
+The {Stacks Project Authors}.
+\newblock \emph{Stacks Project}.
+\newblock \url{http://stacks.math.columbia.edu}, 2017.
+
+\bibitem[Swe75]{Tensor_local}
+Moss~Eisenberg Sweedler.
+\newblock When is the tensor product of algebras local?
+\newblock {\em Proceedings of the American Mathematical Society, 48}, 1975.
+
+\end{thebibliography}
