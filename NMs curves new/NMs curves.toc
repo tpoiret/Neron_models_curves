@@ -1,0 +1,45 @@
+\contentsline {part}{\tocpart {Part}{}{General introduction}}{2}{section*.2}%
+\contentsline {section}{\tocsection {}{}{N\'eron models}}{2}{section*.3}%
+\contentsline {section}{\tocsection {}{}{Structure of the paper, main results}}{3}{section*.4}%
+\contentsline {section}{\tocsection {}{}{Notations}}{5}{section*.5}%
+\contentsline {section}{\tocsection {}{}{Acknowledgements}}{6}{section*.6}%
+\contentsline {part}{\tocpart {Part}{1}{Background}}{6}{part.1}%
+\contentsline {section}{\tocsection {}{1}{Nodal curves}}{6}{section.1}%
+\contentsline {subsection}{\tocsubsection {}{1.1}{Local structure}}{6}{subsection.1.1}%
+\contentsline {subsection}{\tocsubsection {}{1.2}{Dual graphs}}{7}{subsection.1.2}%
+\contentsline {subsection}{\tocsubsection {}{1.3}{The dual graph at a geometric point}}{9}{subsection.1.3}%
+\contentsline {subsection}{\tocsubsection {}{1.4}{Quasisplitness, dual graphs at non-geometric points}}{10}{subsection.1.4}%
+\contentsline {section}{\tocsection {}{2}{Primality and base change}}{11}{section.2}%
+\contentsline {section}{\tocsection {}{3}{Sections of nodal curves}}{14}{section.3}%
+\contentsline {subsection}{\tocsubsection {}{3.1}{Type of a section}}{14}{subsection.3.1}%
+\contentsline {subsection}{\tocsubsection {}{3.2}{Admissible neighbourhoods}}{17}{subsection.3.2}%
+\contentsline {section}{\tocsection {}{4}{Refinements and resolutions}}{18}{section.4}%
+\contentsline {subsection}{\tocsubsection {}{4.1}{Arithmetic complexity and motivation for refinements}}{19}{subsection.4.1}%
+\contentsline {subsubsection}{\tocsubsubsection {}{4.1.1}{Arithmetic complexity}}{19}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\tocsubsubsection {}{4.1.2}{Factoriality of completed \'etale local rings}}{19}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\tocsubsubsection {}{4.1.3}{Factoring sections through the smooth locus}}{20}{subsubsection.4.1.3}%
+\contentsline {subsection}{\tocsubsection {}{4.2}{Refinements of graphs}}{21}{subsection.4.2}%
+\contentsline {subsection}{\tocsubsection {}{4.3}{Refinements of curves}}{22}{subsection.4.3}%
+\contentsline {subsection}{\tocsubsection {}{4.4}{Resolutions of nodal curves}}{25}{subsection.4.4}%
+\contentsline {part}{\tocpart {Part}{2}{N\'eron models of nodal curves and their Jacobians}}{26}{part.2}%
+\contentsline {section}{\tocsection {}{5}{Generalities about N\'eron models}}{26}{section.5}%
+\contentsline {subsection}{\tocsubsection {}{5.1}{Definitions}}{26}{subsection.5.1}%
+\contentsline {subsection}{\tocsubsection {}{5.2}{Base change and descent properties}}{27}{subsection.5.2}%
+\contentsline {section}{\tocsection {}{6}{N\'eron models of Jacobians}}{29}{section.6}%
+\contentsline {subsection}{\tocsubsection {}{6.1}{Construction of the Néron model}}{30}{subsection.6.1}%
+\contentsline {subsection}{\tocsubsection {}{6.2}{A criterion for separatedness}}{32}{subsection.6.2}%
+\contentsline {section}{\tocsection {}{7}{N\'eron models of curves with nodal models}}{34}{section.7}%
+\contentsline {subsection}{\tocsubsection {}{7.1}{Factoring sections through refinements}}{35}{subsection.7.1}%
+\contentsline {subsection}{\tocsubsection {}{7.2}{First construction of the N\'eron model}}{37}{subsection.7.2}%
+\contentsline {subsection}{\tocsubsection {}{7.3}{Exceptional components and minimal proper regular models}}{40}{subsection.7.3}%
+\contentsline {subsubsection}{\tocsubsubsection {}{7.3.1}{definition}}{41}{subsubsection.7.3.1}%
+\contentsline {subsubsection}{\tocsubsubsection {}{7.3.2}{The minimal proper regular model}}{41}{subsubsection.7.3.2}%
+\contentsline {subsubsection}{\tocsubsubsection {}{7.3.3}{Van der Waerden's purity theorem}}{42}{subsubsection.7.3.3}%
+\contentsline {subsection}{\tocsubsection {}{7.4}{Contractions and stable models}}{44}{subsection.7.4}%
+\contentsline {subsubsection}{\tocsubsubsection {}{7.4.1}{The stack of n-pointed stable curves and the contraction morphism}}{45}{subsubsection.7.4.1}%
+\contentsline {subsubsection}{\tocsubsubsection {}{7.4.2}{The stable model}}{46}{subsubsection.7.4.2}%
+\contentsline {subsubsection}{\tocsubsubsection {}{7.4.3}{Rational components of the stable model}}{48}{subsubsection.7.4.3}%
+\contentsline {subsubsection}{\tocsubsubsection {}{7.4.4}{Singular ideals of the stable model}}{50}{subsubsection.7.4.4}%
+\contentsline {subsubsection}{\tocsubsubsection {}{7.4.5}{The main theorem}}{52}{subsubsection.7.4.5}%
+\contentsline {subsection}{\tocsubsection {}{7.5}{Separatedness of the N\'eron model}}{53}{subsection.7.5}%
+\contentsline {section}{\tocsection {}{}{References}}{58}{section*.7}%
